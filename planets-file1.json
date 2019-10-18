@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "Venus",
+    "type" : "Solar System",
+    "uniqueIdentifier": "It's been called the very definition of Hell"
+  },
+  {
+    "name" : "Mars",
+    "type" : "Solar System",
+    "uniqueIdentifier": "It's got an orange hue"
+  }
+]
